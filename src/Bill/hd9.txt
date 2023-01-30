@@ -1,0 +1,19 @@
+							 THE COFFEE
+						 Địa chỉ: 22 Khâm Thiên,Đống Đa hà nội
+						     SĐT: 0354508903
+						 ------------------
+						 HOÁ ĐƠN THANH TOÁN
+Mã hoá đơn: 9
+Ngày: 02-01-2023
+Nhân viên: Ngọc Long
+Khách hàng: Nguyền Đình Tuân
+-------------------------------------------------------------------
+Tên hàng 			Số lượng 			Đơn giá
+Cappuccino 			1 				25000
+Siro đào 			1 				20000
+Siro Cam 			1 				20000
+-------------------------------------------------------------------
+Tổng tiền 				65000
+Tiền khách đưa 				
+Giảm giá 				 0
+Hoàn tiền 				
